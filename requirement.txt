@@ -1,1 +1,3 @@
-gradio
+streamlit
+numpy
+plotly
